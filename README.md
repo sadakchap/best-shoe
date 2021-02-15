@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sadakchap/best-shoe">
-    <img src="images/HomePage.png" alt="Hero Section" height="400" width="800" style="border-radius: 2%;">
+    <img src="images/homePage.png" alt="Hero Section" height="400" width="800" style="border-radius: 2%;">
   </a>
 
   <h3 align="center">Best Shoe</h3>
